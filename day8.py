@@ -1,0 +1,12 @@
+seriefavorita=[]
+s1=input("Ingrese su serie favorita:")
+seriefavorita.append(s1)
+s2=input("Ingrese otra serie favorita:")
+seriefavorita.append(s2)
+s3=input("Ingrese otra serie favorita:")
+seriefavorita.append(s3)
+s4=input("Ingrese otra serie favorita:")
+seriefavorita.append(s4)
+s5=input("Ingrese otra serie favorita:")
+seriefavorita.append(s5)
+print("Sus series favoritas son:",seriefavorita)
