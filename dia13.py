@@ -8,4 +8,4 @@ if user == computer:
 elif (user == "piedra" and computer == "tijera") or (user == "papel" and computer == "piedra") or (user == "tijera" and computer == "papel"):
     print("Ganaste")
 else:
-    print("Perdiste")   
+    print("Perdiste")       
